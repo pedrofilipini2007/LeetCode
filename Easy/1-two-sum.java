@@ -1,3 +1,4 @@
+class Solution {
 public int[] twoSum(int[] nums, int target) {
         //  try use only one Hashmap
         Map<Integer,Integer> collect = new HashMap<>();
@@ -30,3 +31,4 @@ public int[] twoSum(int[] nums, int target) {
 //    }
    // return null;
 //    }
+}
